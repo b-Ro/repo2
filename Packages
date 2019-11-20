@@ -1,0 +1,14 @@
+Package: com.iambrianrose.nomnom
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: b___Ro <giantwaffle@gmail.com>
+Depends: Snowboard, etc.
+Filename: /com.iambrianrose.nomnom
+Size: 8258
+MD5sum: 27183802640043de17dd3a372d10fd93
+SHA1: b6c78fa6e216f6621f7a04fc2d092c20a50488bc
+SHA256: ea47e4daf5a8a9bd9bdc84e90f75182c2a3bd18d261fd9abf58ec23a50136f81
+Section: Themes
+Description: nom_nom ios theme
+Author: b___Ro <giantwaffle@gmail.com>
+Name: nom_nom
